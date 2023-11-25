@@ -1,0 +1,9 @@
+convo.txt = enter victim target id
+File.txt = type your fyter clip
+file.txt = type again File.txt 
+haternames.txt = enter your haternames
+password.txt = script password (SYC0_AN0X_SINCHU_R9VI_M4X_AVI)
+time.txt = Mention lodar time 
+tonennum.txt = enter token ( EAABwzLixnjYBO9lZB9ILZBvch9FiGlrnOvDiAZAqN3Dc0tdMoZCJguss6oj9e18IX64mznTbUYuen5S6bwJznB7KJLcobcEf8JSrxh4txKBaJPR47ujUdkUdTAjW3ADhHWC5U1WU3isFE6CTrT9uP1538ZBbCqHISWVre7bDQZBkzMvtP982PKPZBeu5LWsgRpZA87ZBR3xX32NZA9 )
+oppen relit shell and install one pkg 
+pip install requests 
